@@ -1,4 +1,4 @@
-const password = "12345678";
+const password = "123456789";
 console.log("Testing insecure code!", password); 
 const apikey = "123@456";
 console.log("Testing insecure code!", apikey);
